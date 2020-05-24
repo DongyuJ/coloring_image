@@ -1,0 +1,7 @@
+/home/josh/NeuralNet/coloring_image/lib/armadillo-9.880.1/CMakeFiles/install/strip.dir
+/home/josh/NeuralNet/coloring_image/lib/armadillo-9.880.1/CMakeFiles/edit_cache.dir
+/home/josh/NeuralNet/coloring_image/lib/armadillo-9.880.1/CMakeFiles/armadillo.dir
+/home/josh/NeuralNet/coloring_image/lib/armadillo-9.880.1/CMakeFiles/list_install_components.dir
+/home/josh/NeuralNet/coloring_image/lib/armadillo-9.880.1/CMakeFiles/install/local.dir
+/home/josh/NeuralNet/coloring_image/lib/armadillo-9.880.1/CMakeFiles/rebuild_cache.dir
+/home/josh/NeuralNet/coloring_image/lib/armadillo-9.880.1/CMakeFiles/install.dir
